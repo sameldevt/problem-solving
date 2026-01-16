@@ -1,4 +1,4 @@
-package br.com.samiac.challenges;
+package br.com.samiac.problems.hackerrank;
 
 public class NumberLineJumps {
 

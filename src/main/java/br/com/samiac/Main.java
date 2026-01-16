@@ -1,13 +1,10 @@
 package br.com.samiac;
 
-import java.util.List;
-
-import br.com.samiac.challenges.SalesByMatch;
+import br.com.samiac.problems.leetcode.SearchInsertPosition;
 
 public class Main {
 
 	public static void main(String[] args) {
-
-		System.out.println(SalesByMatch.sockMerchant(9, List.of(1, 1, 3, 1, 2, 1, 3, 3, 3, 3)));
+		System.out.println(SearchInsertPosition.searchInsert(new int[] { 1, 3, 5, 6 }, 7));
 	}
 }

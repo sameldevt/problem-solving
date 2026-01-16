@@ -1,4 +1,4 @@
-package br.com.samiac.challenges;
+package br.com.samiac.problems.hackerrank;
 
 import java.util.HashMap;
 import java.util.List;

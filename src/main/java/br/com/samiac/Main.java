@@ -2,11 +2,12 @@ package br.com.samiac;
 
 import java.util.List;
 
-import br.com.samiac.challenges.BillDivision;
+import br.com.samiac.challenges.SalesByMatch;
 
 public class Main {
 
 	public static void main(String[] args) {
-		BillDivision.bonAppetit(List.of(3, 10, 2, 9), 1, 12);
+
+		System.out.println(SalesByMatch.sockMerchant(9, List.of(1, 1, 3, 1, 2, 1, 3, 3, 3, 3)));
 	}
 }
